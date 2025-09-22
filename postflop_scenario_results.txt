@@ -1,0 +1,58 @@
+Postflop Scenario Testing Results
+Generated: 2025-09-21 23:34:35 UTC
+Total scenarios: 9
+
+Dry Flop - Deep Stacks:
+  Position Advantage: 98.0 mBB/hand
+  Exploitability: 56.5 mBB/hand
+  Board: Dry (A♠ 7♣ 2♦)
+  Stack: 20000 chips
+
+Wet Flop - Deep Stacks:
+  Position Advantage: 65.2 mBB/hand
+  Exploitability: 37.4 mBB/hand
+  Board: Wet (9♠ 8♠ 7♣)
+  Stack: 20000 chips
+
+Paired Flop - Medium Stacks:
+  Position Advantage: 47.2 mBB/hand
+  Exploitability: 35.2 mBB/hand
+  Board: Paired (K♠ K♣ 5♦)
+  Stack: 10000 chips
+
+Monotone Turn - Deep Stacks:
+  Position Advantage: 2.4 mBB/hand
+  Exploitability: 134.1 mBB/hand
+  Board: Monotone (A♠ J♠ 6♠)
+  Stack: 20000 chips
+
+Connected Turn - Short Stacks:
+  Position Advantage: 9.6 mBB/hand
+  Exploitability: 0.4 mBB/hand
+  Board: Connected (T♠ 9♣ 8♦)
+  Stack: 5000 chips
+
+Rainbow River - Deep Stacks:
+  Position Advantage: 88.8 mBB/hand
+  Exploitability: 43.1 mBB/hand
+  Board: Rainbow (A♠ 7♣ 2♦ 5♥)
+  Stack: 20000 chips
+
+Two-tone River - Medium Stacks:
+  Position Advantage: 124.9 mBB/hand
+  Exploitability: 57.4 mBB/hand
+  Board: Two-tone (K♠ Q♠ 7♣ 3♦)
+  Stack: 10000 chips
+
+Full Game - Tournament Stacks:
+  Position Advantage: 43.1 mBB/hand
+  Exploitability: 10.9 mBB/hand
+  Board: Variable
+  Stack: 8000 chips
+
+Full Game - Cash Game Stacks:
+  Position Advantage: 112.0 mBB/hand
+  Exploitability: 83.0 mBB/hand
+  Board: Variable
+  Stack: 25000 chips
+
